@@ -29,6 +29,7 @@ fetch('http://localhost:5678/api/works')
                         figure.appendChild(figcaption);
 
                         galerie.appendChild(figure);
+                        console.log("test")
                     }
                 });
             });
